@@ -54,6 +54,6 @@ public class Animation
 
     public boolean playedOnce()
     {
-        return playedOnce();
+        return playedOnce;
     }
 }
